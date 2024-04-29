@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\LabTask28\LabTask28\bin\Debug\LabTask28.exe.config
+C:\Users\HP\source\repos\LabTask28\LabTask28\bin\Debug\LabTask28.exe
+C:\Users\HP\source\repos\LabTask28\LabTask28\bin\Debug\LabTask28.pdb
+C:\Users\HP\source\repos\LabTask28\LabTask28\obj\Debug\LabTask28.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\LabTask28\LabTask28\obj\Debug\LabTask28.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LabTask28\LabTask28\obj\Debug\LabTask28.exe
+C:\Users\HP\source\repos\LabTask28\LabTask28\obj\Debug\LabTask28.pdb
